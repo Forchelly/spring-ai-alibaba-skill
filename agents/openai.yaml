@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring AI Alibaba"
+  short_description: "Spring AI Alibaba 中文开发助手"
+  default_prompt: "使用 $spring-ai-alibaba 帮我构建一个基于 Spring AI Alibaba 的 Spring Boot AI 应用。"
